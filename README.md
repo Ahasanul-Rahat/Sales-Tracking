@@ -50,14 +50,15 @@ Microsoft Excel
 
 ## 📈 Findings
 
-Key insights derived from the dashboard include:
+1. Key insights derived from the dashboard include:
 
 Identification of top-performing products and customers
 
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/c62ef24f-85a7-4234-a969-1011dcccc255" />
+
 Sales trends across different periods
 
-<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/023dcc42-bfaa-4a24-91ee-67b74b3f138b" />
-
+<img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/023dcc42-bfaa-4a24-91ee-67b74b3f138b" />
 
 Contribution of various product categories to total sales
 
