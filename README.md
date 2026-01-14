@@ -6,7 +6,7 @@ This project focuses on building an interactive Sales Tracking Dashboard using P
 
 The project demonstrates practical skills in data cleaning, relationship building, and business-oriented analysis, making it suitable for real-world sales and management reporting.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 The key objectives of this project are:
 
