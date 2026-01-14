@@ -49,22 +49,16 @@ Power BI
 Microsoft Excel
 
 ## 📈 Findings
-
-1. Key insights derived from the dashboard include:
-
-Identification of top-performing products and customers
-
+### Key insights derived from the dashboard include:
+1.Identification of top-performing products and customers
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/c62ef24f-85a7-4234-a969-1011dcccc255" />
 
-Sales trends across different periods
-
+2.Sales trends across different periods
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/023dcc42-bfaa-4a24-91ee-67b74b3f138b" />
 
-Contribution of various product categories to total sales
-
-Clear visibility of underperforming segments
-
-Improved reporting accuracy due to well-defined table relationships
+3.Contribution of various product categories to total sales
+4.Clear visibility of underperforming segments
+5.Improved reporting accuracy due to well-defined table relationships
 
 ## ✅ Conclusions
 
