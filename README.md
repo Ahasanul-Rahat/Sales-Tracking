@@ -53,7 +53,7 @@ Microsoft Excel
 1.Identification of top-performing products and customers
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/c62ef24f-85a7-4234-a969-1011dcccc255" />
 
-2.Sales trends across different periods
+2.Sales trends across different regions
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/023dcc42-bfaa-4a24-91ee-67b74b3f138b" />
 
 3.Contribution of various product categories to total sales
