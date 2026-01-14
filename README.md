@@ -57,7 +57,9 @@ Microsoft Excel
 <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/023dcc42-bfaa-4a24-91ee-67b74b3f138b" />
 
 3.Contribution of various product categories to total sales
+
 4.Clear visibility of underperforming segments
+
 5.Improved reporting accuracy due to well-defined table relationships
 
 ## ✅ Conclusions
